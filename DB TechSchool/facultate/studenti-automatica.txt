@@ -1,0 +1,10 @@
+Popescu,Ioana,ioana.popescu@techschool.com,30,9.24
+Ionescu,Stefan,stefan.ionescu@techschool.com,12,6.94
+Pop,Maria,maria.pop@techschool.com,27,8.99
+Popa,Andrei,andrei.popa@techschool.com,25,8.4
+Georgescu,Ina,ina.georgescu@techschool.com,23,9.02
+Dragne,Rares,rares.dragne@techschool.com,27,8.76
+Pop,Vlad,vlad.pop@techschool.com,18,7.14
+Andrei,Cosmin,cosmin.andrei@techschool.com,13,7.56
+Radu,Stefan,stefan.radu@techschool.com,19,8.76
+Teodorescu,Andreea,andreea.teodorescu@techschool.com,22,9.56
